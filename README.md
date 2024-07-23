@@ -2,7 +2,7 @@
 
 **Resolução do Exercício 1.1 E Deitel Web**
 
-**1.1 Preencha os espaços em branco com a resposta correta:**
+**1.1 Preencha os espaços em branco com a resposta correta:**<br>
 **e) As três classes de línguas discutidas no capítulo são\_\_\_\_\_ ,\_\_\_\_\_e\_\_\_\_\_.**
 
 ## Resposta
